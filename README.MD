@@ -15,6 +15,8 @@
 # Upcoming Challenges
 
 - Results from the Time Machine
-- Ask and you Shall Receive
+- Ask and You Shall Receive
 - C'mon Jump in my Car
-- Have you seen Colin?
+- Have You Seen Colin?
+- In the Zone
+- Super Powers
