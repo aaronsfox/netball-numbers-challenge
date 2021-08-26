@@ -1,4 +1,4 @@
-<img src="vol1_example.png" width="50%">
+<img align="center" src="vol1_example.png" width="50%">
 
 ### Summary
 
