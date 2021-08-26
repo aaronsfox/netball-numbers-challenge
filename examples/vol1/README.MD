@@ -1,7 +1,8 @@
 <p align="center">
   <img src="vol1_example.png" width="50%" alt="Volume 1 example visualisation of seasonal goal difference"/>
-  <figcaption>Click me for high resolution version...</figcaption>
+  <em>Click me for high resolution version...</em>
 </p>
+
 
 ### Summary
 
