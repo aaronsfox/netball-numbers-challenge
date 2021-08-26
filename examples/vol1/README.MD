@@ -1,4 +1,6 @@
-<img align="center" src="vol1_example.png" width="50%">
+<p align="center">
+  <img src="vol1_example.png" width="50%" alt="Volume 1 example visualisation of seasonal goal difference"/>
+</p>
 
 ### Summary
 
