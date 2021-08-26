@@ -7,9 +7,9 @@
 
 # Datasets
 
-| Challenge Data | Month | Year | Source | Example |
-| :--------------------------------------- | :--- | :---: | :--- | :---|
-| [Vol. 1: Results from the Time Machine](datasets/vol1) | September | 2021 | ANZ Championship & Suncorp Super Netball |  |
+| Volume | Challenge Data | Month | Year | Source | Example |
+| :---: | :--- | :--- | :---: | :--- | :---|
+| 1 | [Results from the Time Machine](datasets/vol1) | September | 2021 | ANZC & SSN |  |
 
 
 # Upcoming Challenges
