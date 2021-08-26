@@ -1,9 +1,6 @@
 # Netball Numbers Challenge
 
-
-
-***TODO:***
-
+***Summary coming soon...***
 
 # Datasets
 
