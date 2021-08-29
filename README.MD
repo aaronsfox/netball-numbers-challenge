@@ -23,7 +23,7 @@ I will also try and post an [example](https://github.com/aaronsfox/netball-numbe
 
 | Volume | Challenge Data | Date | Year | Source | Example |
 | :---: | :--- | :--- | :---: | :--- | :---|
-| 1 | [Results from the Time Machine](datasets/vol1) | September 1<sup>st</sup>-15<sup>th</sup> | 2021 | ANZC & SSN | [Seasonal Goal Difference](examples/vol1) |
+| 1 | [Results from the Time Machine](datasets/vol1) | Sep. 1<sup>st</sup>-15<sup>th</sup> | 2021 | ANZC & SSN | [Seasonal Goal Difference](examples/vol1) |
 
 
 ## Upcoming Challenges
