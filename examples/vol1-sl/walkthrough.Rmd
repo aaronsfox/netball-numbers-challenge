@@ -1,0 +1,38 @@
+---
+output: github_document
+---
+
+<!-- README.md is generated from README.Rmd. Please edit that file -->
+
+```{r, include = FALSE}
+knitr::opts_chunk$set(
+  collapse = TRUE,
+  comment = "#>"
+)
+```
+
+# Percentage Difference Over Time (Walkthrough)
+
+This document steps through the code to produce the figure in [README.md](./README.md). The output (.md/.html files) can be generated from the input (.Rmd files) using the following commands:
+
+```{r example,eval=FALSE}
+rmarkdown::render('./walkthrough.Rmd')
+rmarkdown::render('./README.Rmd')
+```
+
+The first thing we need are some libraries to munge the data and create the graphic:
+
+```{r setup}
+## tidyverse brings in a bunch of useful packages
+## here provides easy to use relative paths (to the .git folder)
+## install.packages('tidyverse'); install.packages('here')
+library(tidyverse)
+library(here)
+```
+
+OK. Let's read in the data that Aaron's provided and take a quick look at it:
+
+```{r read-in-data}
+time_machine <- read_csv(here('datasets/vol1/resultsFromTheTimeMachine.csv'))
+glimpse(time_machine)
+```
