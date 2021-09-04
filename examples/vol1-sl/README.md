@@ -6,7 +6,7 @@
 <!-- badges: start -->
 <!-- badges: end -->
 
-<img src="/Users/sprazza/github/netball-numbers-challenge/examples/vol1-sl/fig.png" width="2880" />
+<img src="fig.png" width="2880" />
 
 # Summary
 

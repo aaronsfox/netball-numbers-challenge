@@ -17,7 +17,7 @@ knitr::opts_chunk$set(
 <!-- badges: end -->
 
 ```{r figure, echo = FALSE}
-knitr::include_graphics(here('examples/vol1-sl/fig.png'))
+knitr::include_graphics('fig.png')
 ```
 
 # Summary
