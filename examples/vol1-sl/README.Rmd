@@ -11,29 +11,21 @@ knitr::opts_chunk$set(
 )
 ```
 
-# Percentage Difference Over Time
+# Season-end Percentage
 
 <!-- badges: start -->
 <!-- badges: end -->
 
-```{r setup}
-
+```{r figure, echo = FALSE}
+knitr::include_graphics(here('examples/vol1-sl/fig.png'))
 ```
 
-The goal of netball-numbers-challenge is to ...
+# Summary
 
-What is special about using `README.Rmd` instead of just `README.md`? You can include R chunks like so:
+I was trying to see if there was any pattern in season-end percentage over seasons in the ANZC and SSN in this figure. E.g. do we see any domination appearing? Slow deterioration of teams?
 
-```{r cars}
-summary(cars)
-```
+In the figure I've highlighted the Vixens, my team, and the Fever due to their general strength recently. I think the figure nicely highlights the growth in the Fever's percentage: from the down the bottom in the early days, to up the top recently. The Vixens: a little bit the other way around.
 
-You'll still need to render `README.Rmd` regularly, to keep `README.md` up-to-date. `devtools::build_readme()` is handy for this. You could also use GitHub Actions to re-render `README.Rmd` every time you push. An example workflow can be found here: <https://github.com/r-lib/actions/tree/master/examples>.
+I'm not entirely happy with the figure (I'm a statistician, not a visualisation expert); I'm not sure on including the axes, and also how the demarcation between ANZC and SSN is displayed.
 
-You can also embed plots, for example:
-
-```{r pressure, echo = FALSE}
-plot(pressure)
-```
-
-In that case, don't forget to commit and push the resulting figure files, so they display on GitHub.
+If you want to see how I've done this, see [the walkthrough](walkthrough.md).
