@@ -24,11 +24,12 @@ I will also try and post an [example](https://github.com/aaronsfox/netball-numbe
 | Volume | Challenge Data | Date | Year | Source | Example |
 | :---: | :--- | :--- | :---: | :--- | :---|
 | 1 | [Results from the Time Machine](datasets/vol1) | Sep. 1<sup>st</sup>-15<sup>th</sup> | 2021 | ANZC & SSN | [Seasonal Goal Difference](examples/vol1) |
+| 2 | [Ask and You Shall Receive](datasets/vol2) | Sep. 20<sup>th</sup>-Oct. 4<sup>th</sup> | 2021 | Deakin CSR | [Second Phase by Team](examples/vol2) |
+| 3 | Something About Riddles and Fruit | TBC | 2021 | Twitter |   |
 
 
 ## Upcoming Challenges
 
-- Ask and You Shall Receive
 - Have You Seen Colin?
 - C'mon Jump in my Car
 - In the Zone
