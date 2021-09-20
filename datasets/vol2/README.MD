@@ -2,7 +2,9 @@
 
 This dataset was part of a notational analysis of the 2018 Suncorp Super Netball season led by [Lyndell Bruce](https://twitter.com/LyndellBruce). This dataset contains patterns of play for each team across the season around centre pass receptions and second phase. Each row in the dataset corresponds to single play, where the playing position and court location for the centre pass reception and second phase are listed. Additional characteristics of the round, match number and quarter number are also included for each data point. Note that not every data point has a second phase entry, as the play may not have reached this point. For playing position, sometimes this could not be determined and hence has been labelled as 'UNKNOWN'. The XY coordinates for the court location are defined as per the following axes:
 
-![](C:\+GitRepos+\netball-numbers-challenge\datasets\vol2\images\courtAxes.png)
+<p align="center">
+  <img src="images\courtAxes.png" width="25%"/>
+</p>
 
 For example, the centre circle would be at the XY coordinate of 50,100, and the third lines along Y coordinates of approximately 67 and 133. All data is oriented so that the top or north end of the court (i.e. higher Y coordinates) is the attacking direction, while the bottom or south end of the court (i.e. lower Y coordinates) is the defensive direction.
 

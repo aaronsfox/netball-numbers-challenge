@@ -5,6 +5,7 @@ My approach with this dataset was to use the geographical court location (i.e. X
 <p align="center">
   <img src="vol2_example.png" width="100%" alt="Volume 2 example second phase distribution by team"/>
 </p>
+
 Like the volume 1 example, this figure again uses the team logos to give a more visual feel for the plot titles. These are available in the [images folder](images) of this example — so feel free to use them in your own work. I think the 'minimalist' court design used in this figure just cleans it up a little and makes it less cluttered. I used the 'light' background colour again to to soften up the image, but this also provides a good contrast to the team colours used.
 
 ### Code
