@@ -109,15 +109,15 @@ OK, let’s do a simple Sankey plot—i.e. how the passes flow
 pl_receive <- ask_receive_counts %>%
   ggplot(
     aes(
-      y = n, axis1 = Centre, axis2 = `Centre pass receiver`,
-      axis3 = `Second phase receiver`
+      y = n, axis1 = `Centre pass receiver`,
+      axis2 = `Second phase receiver`
     )
   ) +
   geom_alluvium(aes(fill = `Centre pass receiver`), width = 1/12) +
   geom_stratum(width = 1/12, fill = "black", color = "grey") +
   geom_label(stat = "stratum", aes(label = after_stat(stratum))) +
   scale_x_discrete(
-    limits = c("Centre", "Centre pass receiver", "Second phase receiver"),
+    limits = c("Centre pass receiver", "Second phase receiver"),
     expand = c(.05, .05)
   ) +
   scale_fill_brewer(type = "qual", palette = "Dark2")
@@ -144,7 +144,11 @@ pl_receive_nicer <- pl_receive +
   theme(legend.position = 'bottom') +
   labs(
     y = 'Frequency',
-    title = 'Flow of passes from centre to various positions over two phases'
+    title = 'Positional pass receives over two phases',
+    caption = str_wrap(
+      'Positional pass receives from the centre, Super Netball 2018. The left hand side shows the first (positional) player to receive the ball from a centre pass, with the flows showing the second phase. The flows are coloured by position.',
+      width = 120
+    )
   )
 pl_receive_nicer
 #> Warning in to_lodes_form(data = data, axes = axis_ind, discern =
