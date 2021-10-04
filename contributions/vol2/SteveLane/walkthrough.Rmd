@@ -1,0 +1,105 @@
+---
+output: github_document
+---
+
+<!-- README.md is generated from README.Rmd. Please edit that file -->
+
+```{r, include = FALSE}
+knitr::opts_chunk$set(
+  collapse = TRUE,
+  comment = "#>",
+  echo = TRUE
+)
+```
+
+# Ask and you shall receive (Walkthrough)
+
+This document steps through the code to produce the figure in [README.md](./README.md). The output (.md/.html files) can be generated from the input (.Rmd files) using the following commands:
+
+```{r example,eval=FALSE}
+rmarkdown::render('./walkthrough.Rmd')
+rmarkdown::render('./README.Rmd')
+```
+
+The first thing we need are some libraries to munge the data and create the graphic:
+
+```{r setup}
+## tidyverse brings in a bunch of useful packages
+## here provides easy to use relative paths (to the .git folder)
+## magick allows us to read in png
+## ggalluvial allows sankey plots
+## install.packages('tidyverse'); install.packages('here')
+## install.packages('magick'); install.packages('ggalluvial)
+library(tidyverse)
+library(here)
+library(ggalluvial)
+```
+
+OK. Let's read in the data that Aaron's provided and take a quick look at it:
+
+```{r read-in-data}
+ask_receive <- read_csv(here('datasets/vol2/askAndYouShallReceive.csv'))
+glimpse(ask_receive)
+```
+
+Looks like it's already 'tidy', so we should be able to get a very simple version of a graphic straight up. I'm going to look at the flow from C to centre pass receive and then on to the second phase. Nothing tricky, averaged over the whole season and teams at the moment. We'll remove the unknowns and then count the passes:
+
+```{r counting}
+ask_receive_counts <- ask_receive %>%
+  filter(centrePassRec != 'UNKNOWN', secondPhaseRec != 'UNKNOWN') %>%
+  mutate(Centre = 'C') %>%
+  rename(
+    'Centre pass receiver' = centrePassRec,
+    'Second phase receiver' = secondPhaseRec
+  ) %>%
+  count(Centre, `Centre pass receiver`, `Second phase receiver`)
+ask_receive_counts
+```
+
+OK, let's do a simple Sankey plot&mdash;i.e. how the passes flow _positionally_ over two phases:
+
+```{r passing-figure}
+pl_receive <- ask_receive_counts %>%
+  ggplot(
+    aes(
+      y = n, axis1 = `Centre pass receiver`,
+      axis2 = `Second phase receiver`
+    )
+  ) +
+  geom_alluvium(aes(fill = `Centre pass receiver`), width = 1/12) +
+  geom_stratum(width = 1/12, fill = "black", color = "grey") +
+  geom_label(stat = "stratum", aes(label = after_stat(stratum))) +
+  scale_x_discrete(
+    limits = c("Centre pass receiver", "Second phase receiver"),
+    expand = c(.05, .05)
+  ) +
+  scale_fill_brewer(type = "qual", palette = "Dark2")
+pl_receive
+```
+
+That's not too bad, but I think I want to remove the grey background, and probably put the legend at the bottom. Also, add a nicer title and legend description:
+
+```{r nicer-passing-figure}
+pl_receive_nicer <- pl_receive +
+  theme_minimal() +
+  theme(legend.position = 'bottom') +
+  labs(
+    y = 'Frequency',
+    title = 'Positional pass receives over two phases',
+    caption = str_wrap(
+      'Positional pass receives from the centre, Super Netball 2018. The left hand side shows the first (positional) player to receive the ball from a centre pass, with the flows showing the second phase. The flows are coloured by position.',
+      width = 120
+    )
+  )
+pl_receive_nicer
+```
+
+Now we can save it (by default, `ggsave` saves the last image, and the aspect ratio is the golden ratio):
+
+```{r save-image}
+ggsave(
+  here('contributions/vol2/SteveLane/asking.png'),
+  width = 9, height = 18 / (1 + sqrt(5)), dpi = 'retina'
+)
+
+```
