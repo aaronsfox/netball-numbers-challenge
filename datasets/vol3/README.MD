@@ -1,11 +1,17 @@
 # Something About Riddles and Fruit
 
-This volumes dataset is a collection of Tweets scraped from the #SSNTrade and #SSNSignings hastags from across the SSN signing period (i.e. September 6th - October 8th). There are two versions of this dataset, a .json and .csv version. The .json file is more extensive, as this comes directly from the Python `snscrape` module and contains a few more columns of data - and may be more easily readable if experienced with this type of file. Note though that the .json file has multiple lines of content for each tweet, which can cause some error with basic loading approaches. Here is an except of Python code that imports the tweets in the .json file:
+This volumes dataset is a collection of Tweets scraped from the #SSNTrade and #SSNSignings hastags from across the SSN signing period (i.e. September 6th - October 8th). I later realised that the SSN team accounts rarely or inconsistently used these hashtags, so there is an added database of tweets across the signing period from the official SSN team accounts.
+
+There are two versions of each dataset, a .json and .csv version. The .json file is more extensive, as this comes directly from the Python `snscrape` module and contains a few more columns of data - and may be more easily readable if experienced with this type of file. Note though that the .json file has multiple lines of content for each tweet, which can cause some error with basic loading approaches. Here is an except of Python code that imports the tweets in the .json file:
 
 ```
+#Option 1
 tweets = []
 for line in open('somethingAboutRiddlesAndFruit.json', 'r'):
     tweets.append(json.loads(line))
+    
+#Option 2 (using pandas)
+df = pd.read_json('somethingAboutRiddlesAndFruit.json', lines = True)
 ```
 
 The .csv is a more generally readable file but contains a smaller amount of columns (see Data Dictionary below). 
@@ -23,6 +29,8 @@ The dataset — 'somethingAboutRiddlesAndFruit.csv' — can be viewed online by 
 
 ## `somethingAboutRiddlesAndFruit.csv`
 
+The `somethingAboutRiddlesAndFruit.csv` file contains the scraped tweets from the #SSNTrade and #SSNSignings hashtags over the signing period.
+
 |Variable         |Data Type |Description |
 |:----------------|:---------|:-----------|
 |url             |string    | URL link to tweet |
@@ -39,3 +47,7 @@ The dataset — 'somethingAboutRiddlesAndFruit.csv' — can be viewed online by 
 |outlinks |list | List of weblinks included in tweet |
 |hashtags |list | List of hashtags used in tweet |
 |username |string | Username of tweeter (note this does not include the @ symbol at beginning) |
+
+## `somethingAboutRiddlesAndFruit_teamTweets.csv`
+
+The `somethingAboutRiddlesAndFruit_teamTweets.csv` contains tweets from the official SSN team accounts (irrespective of hashtag used) over the signing period. The tabulated variables above are also relevant to this file.
