@@ -26,11 +26,11 @@ I will also try and post an [example](https://github.com/aaronsfox/netball-numbe
 | 1 | [Results from the Time Machine](datasets/vol1) | Sep. 1<sup>st</sup>-15<sup>th</sup> | 2021 | ANZC & SSN | [Seasonal Goal Difference](examples/vol1) |
 | 2 | [Ask and You Shall Receive](datasets/vol2) | Sep. 20<sup>th</sup>-Oct. 4<sup>th</sup> | 2021 | Deakin CSR | [Second Phase by Team](examples/vol2) |
 | 3 | [Something About Riddles and Fruit](datasets/vol3) | Oct. 25<sup>th</sup>-Nov. 8<sup>th</sup> | 2021 | Twitter | [Twitter Mentions of Key Signings](examples/vol3) |
+| 4 | [Have You Seen Colin?](datasets/vol4) | Nov. 16<sup>th</sup>-Nov. 30<sup>th</sup> | 2021 | [Libbi Bennett](https://twitter.com/BennettLibbi) | [Colin's Prominence Across the Season](examples/vol4) |
 
 
 ## Upcoming Challenges
 
-- Have You Seen Colin?
 - C'mon Jump in my Car
 - In the Zone
 - Super Powers
