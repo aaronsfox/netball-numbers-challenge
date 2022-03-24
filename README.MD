@@ -11,7 +11,7 @@ A new dataset will be regularly posted [here](https://github.com/aaronsfox/netba
 Here are the basic "rules":
 
 1. Take the data as it is! You are welcome to explore the dataset however you like, the data is provided as a "toy" dataset to practice various techniques on. Focus on the provided dataset, learning, and improving your analytical skills.
-2. R, Python, Excel, Stata - any approach or methodology is welcome! If you use a code-based approach, try and share this so others can learn from what you've done.
+2. R, Python, Tableau, Excel, Stata - any approach or methodology is welcome! If you use a code-based approach, try and share this so others can learn from what you've done.
 3. Post your findings or data visualisation on Twitter, by either replying or retweeting the relevant thread associated with the present challenge. Use the `#NetballNumbers` hashtag so people can find what you've done.
 4. If posting a visual, try and remember to add alt text (alternative text) to the graphic. Twitter provides [guidelines](https://help.twitter.com/en/using-twitter/picture-descriptions) for how to add alt text to your images. The DataViz Society/Nightingale has an [article](https://medium.com/nightingale/writing-alt-text-for-data-visualization-2a218ef43f81) on writing good alt text for plots/graphs.
 
@@ -28,11 +28,5 @@ I will also try and post an [example](https://github.com/aaronsfox/netball-numbe
 | 3 | [Something About Riddles and Fruit](datasets/vol3) | Oct. 25<sup>th</sup>-Nov. 8<sup>th</sup> | 2021 | Twitter | [Twitter Mentions of Key Signings](examples/vol3) |
 | 4 | [Have You Seen Colin?](datasets/vol4) | Nov. 16<sup>th</sup>-Nov. 30<sup>th</sup> | 2021 | [Libbi Bennett](https://twitter.com/BennettLibbi) | [Colin's Prominence Across the Season](examples/vol4) |
 | 5 | [The 12 Super Netballers of Christmas](datasets/vol5) | Dec. 1<sup>st</sup>-Dec. 24<sup>th</sup> | 2021 | Champion Data | [My 12 Super Netballers of Christmas](examples/vol5) |
+| 6 | [Who Do You Play For?](datasets/vol6) | Mar. 25<sup>st</sup>-Apr. 24<sup>th</sup> | 2022 | Champion Data | [Team-to-Team & Player Connections](examples/vol6) |
 
-
-## Upcoming Challenges
-
-- C'mon Jump in my Car
-- In the Zone
-- Super Powers
-- The People's Diamonds
