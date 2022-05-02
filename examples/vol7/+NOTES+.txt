@@ -1,0 +1,6 @@
+How has the Super Shot and Super Shot Period changed accuracy?
+	> Map out heat map visuals across the different locations from year to year and between Super Shot periods?
+	
+How has Super Shot and Super Shot period changed the proportion of shots taken from different locations?
+	> Map out heat map visuals across the different locations of proportions from year to year and between Super Shot periods?
+	> Or comparative stacked bar chart for proportion of shots?
