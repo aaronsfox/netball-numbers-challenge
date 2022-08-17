@@ -29,5 +29,6 @@ I will also try and post an [example](https://github.com/aaronsfox/netball-numbe
 | 4 | [Have You Seen Colin?](datasets/vol4) | Nov. 16<sup>th</sup>-Nov. 30<sup>th</sup> | 2021 | [Libbi Bennett](https://twitter.com/BennettLibbi) | [Colin's Prominence Across the Season](examples/vol4) |
 | 5 | [The 12 Super Netballers of Christmas](datasets/vol5) | Dec. 1<sup>st</sup>-Dec. 24<sup>th</sup> | 2021 | Champion Data | [My 12 Super Netballers of Christmas](examples/vol5) |
 | 6 | [Who Do You Play For?](datasets/vol6) | Mar. 25<sup>st</sup>-Apr. 24<sup>th</sup> | 2022 | Champion Data | [Team-to-Team & Player Connections](examples/vol6) |
-| 7 | [In The Zone](datasets/vol7) | May 1<sup>st</sup>-May. 31<sup>st</sup> | 2022 | Champion Data | Coming Soon... |
+| 7 | [In The Zone](datasets/vol7) | May 1<sup>st</sup>-May 31<sup>st</sup> | 2022 | Champion Data |  |
+| 8 | [The Games](datasets/vol8) | Aug. 17<sup>th</sup>-Sep. 14<sup>th</sup> | 2022 | [CWG Birmingham 2022](https://results.birmingham2022.com/#/team-sports-schedule/NBL/*) | [Goal Differential over the Tournament](examples/vol8) |
 

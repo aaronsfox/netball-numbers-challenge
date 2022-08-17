@@ -1,0 +1,305 @@
+matchNo,team,opponent,matchType,quarter,goalsScored,intercepts,deflections,contactPenalties,obstructionPenalties,totalPenalties,totalErrors,timeInPossessionSecs
+1,England,Trinidad and Tobago,Pool,Q1,15,8,4,9,6,15,2,496
+1,England,Trinidad and Tobago,Pool,Q2,22,9,7,3,3,6,0,636
+1,England,Trinidad and Tobago,Pool,Q3,20,14,8,10,3,13,2,527
+1,England,Trinidad and Tobago,Pool,Q4,17,7,4,7,4,11,4,493
+1,Trinidad and Tobago,England,Pool,Q1,6,8,3,7,8,15,5,400
+1,Trinidad and Tobago,England,Pool,Q2,3,5,2,9,3,12,6,262
+1,Trinidad and Tobago,England,Pool,Q3,4,6,4,6,5,11,8,348
+1,Trinidad and Tobago,England,Pool,Q4,9,3,2,9,1,10,5,400
+2,Australia,Barbados,Pool,Q1,25,15,3,5,5,10,2,566
+2,Australia,Barbados,Pool,Q2,27,7,2,9,4,13,2,633
+2,Australia,Barbados,Pool,Q3,21,12,6,8,2,10,3,535
+2,Australia,Barbados,Pool,Q4,22,11,6,5,1,6,2,533
+2,Barbados,Australia,Pool,Q1,4,4,3,7,3,10,5,332
+2,Barbados,Australia,Pool,Q2,5,4,1,12,7,19,6,264
+2,Barbados,Australia,Pool,Q3,5,8,2,14,0,14,7,363
+2,Barbados,Australia,Pool,Q4,4,4,2,8,1,9,5,367
+3,New Zealand,Northern Ireland,Pool,Q1,18,2,3,9,7,16,0,465
+3,New Zealand,Northern Ireland,Pool,Q2,15,6,2,14,3,17,1,511
+3,New Zealand,Northern Ireland,Pool,Q3,24,7,4,8,3,11,1,569
+3,New Zealand,Northern Ireland,Pool,Q4,22,9,2,8,3,11,2,670
+3,Northern Ireland,New Zealand,Pool,Q1,4,4,1,16,6,22,2,421
+3,Northern Ireland,New Zealand,Pool,Q2,7,3,1,14,6,20,4,378
+3,Northern Ireland,New Zealand,Pool,Q3,5,2,1,8,10,18,2,324
+3,Northern Ireland,New Zealand,Pool,Q4,4,1,2,13,4,17,5,225
+4,Jamaica,Wales,Pool,Q1,16,5,6,8,8,16,5,434
+4,Jamaica,Wales,Pool,Q2,22,9,6,8,4,12,3,517
+4,Jamaica,Wales,Pool,Q3,17,4,4,11,6,17,3,511
+4,Jamaica,Wales,Pool,Q4,17,6,4,9,3,12,5,483
+4,Wales,Jamaica,Pool,Q1,12,9,1,13,7,20,4,464
+4,Wales,Jamaica,Pool,Q2,10,6,4,9,7,16,5,381
+4,Wales,Jamaica,Pool,Q3,9,5,2,14,2,16,4,387
+4,Wales,Jamaica,Pool,Q4,12,4,2,10,5,15,2,410
+5,Australia,Scotland,Pool,Q1,17,3,1,7,3,10,3,483
+5,Australia,Scotland,Pool,Q2,18,10,9,9,0,9,3,494
+5,Australia,Scotland,Pool,Q3,23,9,7,4,4,8,2,537
+5,Australia,Scotland,Pool,Q4,25,12,7,3,1,4,2,585
+5,Scotland,Australia,Pool,Q1,10,4,0,14,5,19,2,413
+5,Scotland,Australia,Pool,Q2,6,8,1,8,0,8,3,400
+5,Scotland,Australia,Pool,Q3,9,6,4,7,0,7,4,359
+5,Scotland,Australia,Pool,Q4,5,3,4,8,2,10,5,303
+6,England,Malawi,Pool,Q1,19,10,3,8,3,11,1,534
+6,England,Malawi,Pool,Q2,16,7,5,13,3,16,3,452
+6,England,Malawi,Pool,Q3,13,6,4,10,2,12,3,430
+6,England,Malawi,Pool,Q4,18,11,6,14,2,16,2,544
+6,Malawi,England,Pool,Q1,9,5,3,17,3,20,5,362
+6,Malawi,England,Pool,Q2,11,7,2,9,5,14,3,445
+6,Malawi,England,Pool,Q3,13,8,3,12,8,20,5,463
+6,Malawi,England,Pool,Q4,8,6,4,10,5,15,2,351
+7,Jamaica,South Africa,Pool,Q1,18,12,8,8,5,13,2,516
+7,Jamaica,South Africa,Pool,Q2,19,5,2,7,2,9,3,531
+7,Jamaica,South Africa,Pool,Q3,17,6,4,6,1,7,3,491
+7,Jamaica,South Africa,Pool,Q4,14,6,0,10,5,15,7,397
+7,South Africa,Jamaica,Pool,Q1,7,8,3,15,4,19,4,381
+7,South Africa,Jamaica,Pool,Q2,12,2,1,13,6,19,2,368
+7,South Africa,Jamaica,Pool,Q3,12,4,1,14,3,17,3,405
+7,South Africa,Jamaica,Pool,Q4,18,4,2,3,4,7,0,496
+8,New Zealand,Uganda,Pool,Q1,14,5,1,14,6,20,1,400
+8,New Zealand,Uganda,Pool,Q2,17,5,2,4,3,7,0,527
+8,New Zealand,Uganda,Pool,Q3,8,4,1,6,2,8,4,413
+8,New Zealand,Uganda,Pool,Q4,14,5,3,6,4,10,2,419
+8,Uganda,New Zealand,Pool,Q1,11,4,4,7,4,11,3,496
+8,Uganda,New Zealand,Pool,Q2,7,3,2,14,5,19,5,368
+8,Uganda,New Zealand,Pool,Q3,11,4,2,8,4,12,3,482
+8,Uganda,New Zealand,Pool,Q4,11,7,4,13,5,18,1,477
+9,Malawi,Northern Ireland,Pool,Q1,12,2,3,14,7,21,1,426
+9,Malawi,Northern Ireland,Pool,Q2,13,4,2,6,4,10,1,439
+9,Malawi,Northern Ireland,Pool,Q3,17,9,3,10,5,15,0,514
+9,Malawi,Northern Ireland,Pool,Q4,12,9,2,8,5,13,3,419
+9,Northern Ireland,Malawi,Pool,Q1,11,4,0,10,4,14,2,471
+9,Northern Ireland,Malawi,Pool,Q2,10,3,0,13,6,19,2,458
+9,Northern Ireland,Malawi,Pool,Q3,7,6,3,13,1,14,3,383
+9,Northern Ireland,Malawi,Pool,Q4,13,3,2,5,13,18,1,472
+10,South Africa,Barbados,Pool,Q1,23,8,6,8,5,13,0,574
+10,South Africa,Barbados,Pool,Q2,20,8,7,11,5,16,0,447
+10,South Africa,Barbados,Pool,Q3,23,10,4,11,4,15,1,508
+10,South Africa,Barbados,Pool,Q4,25,8,3,14,2,16,1,461
+10,Barbados,South Africa,Pool,Q1,9,5,1,9,8,17,3,322
+10,Barbados,South Africa,Pool,Q2,9,7,2,5,6,11,4,448
+10,Barbados,South Africa,Pool,Q3,9,7,1,7,7,14,2,390
+10,Barbados,South Africa,Pool,Q4,9,2,1,13,5,18,2,436
+11,Scotland,Wales,Pool,Q1,7,5,3,19,5,24,4,396
+11,Scotland,Wales,Pool,Q2,8,7,2,15,2,17,3,405
+11,Scotland,Wales,Pool,Q3,13,4,3,18,2,20,0,382
+11,Scotland,Wales,Pool,Q4,14,9,7,8,2,10,3,532
+11,Wales,Scotland,Pool,Q1,12,7,5,17,2,19,4,501
+11,Wales,Scotland,Pool,Q2,14,4,3,15,0,15,4,491
+11,Wales,Scotland,Pool,Q3,15,7,3,9,1,10,2,514
+11,Wales,Scotland,Pool,Q4,7,9,1,19,0,19,6,365
+12,Australia,South Africa,Pool,Q1,19,3,2,13,6,19,2,485
+12,Australia,South Africa,Pool,Q2,21,7,1,8,2,10,2,535
+12,Australia,South Africa,Pool,Q3,16,6,5,4,5,9,1,496
+12,Australia,South Africa,Pool,Q4,18,5,5,10,10,20,3,453
+12,South Africa,Australia,Pool,Q1,11,3,2,8,8,16,3,414
+12,South Africa,Australia,Pool,Q2,13,2,3,7,11,18,4,362
+12,South Africa,Australia,Pool,Q3,13,4,4,8,6,14,4,403
+12,South Africa,Australia,Pool,Q4,12,6,1,11,5,16,1,446
+13,Jamaica,Barbados,Pool,Q1,23,10,7,5,8,13,3,540
+13,Jamaica,Barbados,Pool,Q2,28,10,2,5,3,8,2,639
+13,Jamaica,Barbados,Pool,Q3,22,12,2,11,2,13,4,500
+13,Jamaica,Barbados,Pool,Q4,30,9,6,4,4,8,0,565
+13,Barbados,Jamaica,Pool,Q1,5,8,3,14,4,18,7,352
+13,Barbados,Jamaica,Pool,Q2,4,4,0,9,4,13,7,255
+13,Barbados,Jamaica,Pool,Q3,8,3,1,3,2,5,3,397
+13,Barbados,Jamaica,Pool,Q4,7,4,1,6,1,7,5,328
+14,England,Northern Ireland,Pool,Q1,18,5,5,8,5,13,1,512
+14,England,Northern Ireland,Pool,Q2,20,7,4,7,2,9,2,623
+14,England,Northern Ireland,Pool,Q3,15,3,5,6,1,7,0,419
+14,England,Northern Ireland,Pool,Q4,18,9,5,5,3,8,1,540
+14,Northern Ireland,England,Pool,Q1,9,7,2,14,2,16,4,385
+14,Northern Ireland,England,Pool,Q2,6,3,1,15,3,18,4,273
+14,Northern Ireland,England,Pool,Q3,7,6,2,12,3,15,2,475
+14,Northern Ireland,England,Pool,Q4,5,4,2,9,4,13,4,359
+15,New Zealand,Malawi,Pool,Q1,15,4,0,13,7,20,1,430
+15,New Zealand,Malawi,Pool,Q2,18,4,1,10,6,16,1,479
+15,New Zealand,Malawi,Pool,Q3,18,7,6,9,7,16,0,475
+15,New Zealand,Malawi,Pool,Q4,18,3,4,9,6,15,1,449
+15,Malawi,New Zealand,Pool,Q1,13,2,1,12,2,14,3,468
+15,Malawi,New Zealand,Pool,Q2,15,2,1,6,4,10,3,417
+15,Malawi,New Zealand,Pool,Q3,11,6,2,8,6,14,2,420
+15,Malawi,New Zealand,Pool,Q4,11,5,1,8,4,12,4,449
+16,Uganda,Trinidad and Tobago,Pool,Q1,13,7,9,4,3,7,4,513
+16,Uganda,Trinidad and Tobago,Pool,Q2,20,10,5,9,0,9,2,573
+16,Uganda,Trinidad and Tobago,Pool,Q3,14,4,2,10,6,16,1,505
+16,Uganda,Trinidad and Tobago,Pool,Q4,15,8,2,10,4,14,3,516
+16,Trinidad and Tobago,Uganda,Pool,Q1,6,11,2,17,0,17,5,380
+16,Trinidad and Tobago,Uganda,Pool,Q2,7,6,4,9,2,11,4,322
+16,Trinidad and Tobago,Uganda,Pool,Q3,9,6,3,12,2,14,5,391
+16,Trinidad and Tobago,Uganda,Pool,Q4,6,7,5,12,4,16,5,380
+17,Australia,Wales,Pool,Q1,20,10,8,7,5,12,2,514
+17,Australia,Wales,Pool,Q2,22,13,7,9,7,16,1,574
+17,Australia,Wales,Pool,Q3,22,9,6,7,4,11,2,503
+17,Australia,Wales,Pool,Q4,15,5,8,17,4,21,3,395
+17,Wales,Australia,Pool,Q1,11,8,5,12,9,21,5,372
+17,Wales,Australia,Pool,Q2,7,7,2,11,7,18,3,325
+17,Wales,Australia,Pool,Q3,7,8,3,8,10,18,4,393
+17,Wales,Australia,Pool,Q4,8,9,2,8,6,14,2,501
+18,Jamaica,Scotland,Pool,Q1,25,11,6,6,1,7,1,606
+18,Jamaica,Scotland,Pool,Q2,15,6,4,8,5,13,3,475
+18,Jamaica,Scotland,Pool,Q3,21,8,7,6,1,7,2,556
+18,Jamaica,Scotland,Pool,Q4,17,5,9,7,3,10,4,411
+18,Scotland,Jamaica,Pool,Q1,6,4,2,12,8,20,4,289
+18,Scotland,Jamaica,Pool,Q2,12,4,2,16,4,20,3,419
+18,Scotland,Jamaica,Pool,Q3,5,8,0,8,3,11,5,341
+18,Scotland,Jamaica,Pool,Q4,11,11,4,6,0,6,1,485
+19,England,Uganda,Pool,Q1,13,7,5,14,6,20,2,428
+19,England,Uganda,Pool,Q2,12,7,5,12,3,15,3,409
+19,England,Uganda,Pool,Q3,15,5,2,12,1,13,1,446
+19,England,Uganda,Pool,Q4,16,6,3,9,3,12,1,520
+19,Uganda,England,Pool,Q1,7,5,2,15,7,22,2,467
+19,Uganda,England,Pool,Q2,8,9,4,13,7,20,4,486
+19,Uganda,England,Pool,Q3,9,5,4,14,5,19,2,451
+19,Uganda,England,Pool,Q4,11,3,1,17,5,22,2,378
+20,New Zealand,Trinidad and Tobago,Pool,Q1,22,7,3,7,2,9,1,590
+20,New Zealand,Trinidad and Tobago,Pool,Q2,21,8,8,1,3,4,2,552
+20,New Zealand,Trinidad and Tobago,Pool,Q3,16,7,7,7,2,9,1,446
+20,New Zealand,Trinidad and Tobago,Pool,Q4,21,6,2,6,8,14,0,522
+20,Trinidad and Tobago,New Zealand,Pool,Q1,5,3,1,11,7,18,4,297
+20,Trinidad and Tobago,New Zealand,Pool,Q2,6,5,2,8,9,17,5,345
+20,Trinidad and Tobago,New Zealand,Pool,Q3,7,4,1,9,2,11,3,451
+20,Trinidad and Tobago,New Zealand,Pool,Q4,6,4,1,12,2,14,8,374
+21,South Africa,Wales,Pool,Q1,12,3,3,13,7,20,5,395
+21,South Africa,Wales,Pool,Q2,19,5,8,11,4,15,1,426
+21,South Africa,Wales,Pool,Q3,22,5,2,12,6,18,1,501
+21,South Africa,Wales,Pool,Q4,16,3,3,13,5,18,3,395
+21,Wales,South Africa,Pool,Q1,12,7,1,11,1,12,2,503
+21,Wales,South Africa,Pool,Q2,9,6,0,3,4,7,3,471
+21,Wales,South Africa,Pool,Q3,11,2,0,5,2,7,3,396
+21,Wales,South Africa,Pool,Q4,19,7,2,9,2,11,0,488
+22,Uganda,Northern Ireland,Pool,Q1,11,7,6,5,6,11,1,557
+22,Uganda,Northern Ireland,Pool,Q2,17,6,5,4,6,10,2,560
+22,Uganda,Northern Ireland,Pool,Q3,17,6,1,12,7,19,1,465
+22,Uganda,Northern Ireland,Pool,Q4,18,9,5,10,2,12,0,456
+22,Northern Ireland,Uganda,Pool,Q1,5,7,3,17,7,24,2,340
+22,Northern Ireland,Uganda,Pool,Q2,6,4,3,14,10,24,2,337
+22,Northern Ireland,Uganda,Pool,Q3,8,3,2,10,1,11,2,432
+22,Northern Ireland,Uganda,Pool,Q4,7,2,6,13,9,22,0,363
+23,Scotland,Barbados,Pool,Q1,18,11,2,11,1,12,3,619
+23,Scotland,Barbados,Pool,Q2,24,9,1,13,3,16,0,587
+23,Scotland,Barbados,Pool,Q3,12,7,1,18,2,20,1,0
+23,Scotland,Barbados,Pool,Q4,18,8,2,9,3,12,3,503
+23,Barbados,Scotland,Pool,Q1,4,6,2,12,5,17,8,279
+23,Barbados,Scotland,Pool,Q2,7,1,2,12,8,20,6,311
+23,Barbados,Scotland,Pool,Q3,9,5,8,10,5,15,1,0
+23,Barbados,Scotland,Pool,Q4,8,3,1,12,4,16,4,395
+24,Malawi,Trinidad and Tobago,Pool,Q1,17,7,3,9,3,12,2,517
+24,Malawi,Trinidad and Tobago,Pool,Q2,22,9,2,11,4,15,2,532
+24,Malawi,Trinidad and Tobago,Pool,Q3,18,11,4,8,3,11,2,467
+24,Malawi,Trinidad and Tobago,Pool,Q4,13,5,4,10,4,14,2,602
+24,Trinidad and Tobago,Malawi,Pool,Q1,8,3,4,10,5,15,4,381
+24,Trinidad and Tobago,Malawi,Pool,Q2,7,4,2,9,3,12,2,361
+24,Trinidad and Tobago,Malawi,Pool,Q3,8,5,6,10,5,15,4,430
+24,Trinidad and Tobago,Malawi,Pool,Q4,7,6,5,18,2,20,4,289
+25,Australia,Jamaica,Pool,Q1,14,8,4,13,2,15,3,477
+25,Australia,Jamaica,Pool,Q2,16,3,3,8,3,11,2,496
+25,Australia,Jamaica,Pool,Q3,16,5,1,11,5,16,1,525
+25,Australia,Jamaica,Pool,Q4,9,3,1,9,9,18,3,378
+25,Jamaica,Australia,Pool,Q1,13,8,6,8,6,14,4,419
+25,Jamaica,Australia,Pool,Q2,16,3,1,14,5,19,3,402
+25,Jamaica,Australia,Pool,Q3,11,4,3,9,6,15,2,364
+25,Jamaica,Australia,Pool,Q4,17,6,4,10,5,15,2,519
+26,Wales,Barbados,Pool,Q1,18,9,6,13,2,15,1,481
+26,Wales,Barbados,Pool,Q2,16,8,3,14,4,18,3,468
+26,Wales,Barbados,Pool,Q3,12,8,4,14,7,21,1,480
+26,Wales,Barbados,Pool,Q4,14,10,4,14,5,19,0,455
+26,Barbados,Wales,Pool,Q1,10,9,4,13,2,15,5,415
+26,Barbados,Wales,Pool,Q2,13,5,4,15,3,18,4,430
+26,Barbados,Wales,Pool,Q3,10,6,4,11,4,15,2,416
+26,Barbados,Wales,Pool,Q4,11,8,6,11,1,12,2,443
+27,Trinidad and Tobago,Northern Ireland,Pool,Q1,5,5,0,9,6,15,5,328
+27,Trinidad and Tobago,Northern Ireland,Pool,Q2,10,5,6,11,8,19,3,456
+27,Trinidad and Tobago,Northern Ireland,Pool,Q3,7,5,5,10,2,12,1,490
+27,Trinidad and Tobago,Northern Ireland,Pool,Q4,10,7,0,4,2,6,4,473
+27,Northern Ireland,Trinidad and Tobago,Pool,Q1,14,7,3,9,2,11,3,567
+27,Northern Ireland,Trinidad and Tobago,Pool,Q2,10,10,5,11,4,15,2,440
+27,Northern Ireland,Trinidad and Tobago,Pool,Q3,8,8,6,17,4,21,1,406
+27,Northern Ireland,Trinidad and Tobago,Pool,Q4,9,10,5,11,10,21,6,422
+28,Malawi,Uganda,Pool,Q1,11,1,1,15,3,18,3,346
+28,Malawi,Uganda,Pool,Q2,13,2,5,12,6,18,1,366
+28,Malawi,Uganda,Pool,Q3,9,2,1,20,2,22,3,373
+28,Malawi,Uganda,Pool,Q4,10,3,1,16,5,21,1,366
+28,Uganda,Malawi,Pool,Q1,14,5,2,5,5,10,2,552
+28,Uganda,Malawi,Pool,Q2,14,6,1,15,0,15,0,531
+28,Uganda,Malawi,Pool,Q3,13,4,2,13,4,17,2,524
+28,Uganda,Malawi,Pool,Q4,15,5,2,10,3,13,1,530
+29,South Africa,Scotland,Pool,Q1,15,7,7,8,3,11,3,431
+29,South Africa,Scotland,Pool,Q2,16,9,5,8,10,18,2,436
+29,South Africa,Scotland,Pool,Q3,16,7,2,15,4,19,1,403
+29,South Africa,Scotland,Pool,Q4,18,8,7,13,7,20,1,415
+29,Scotland,South Africa,Pool,Q1,12,9,1,4,2,6,1,467
+29,Scotland,South Africa,Pool,Q2,13,4,3,10,1,11,2,460
+29,Scotland,South Africa,Pool,Q3,11,3,3,10,6,16,2,495
+29,Scotland,South Africa,Pool,Q4,10,5,2,10,3,13,1,435
+30,New Zealand,England,Pool,Q1,8,6,2,15,7,22,2,380
+30,New Zealand,England,Pool,Q2,16,4,6,8,2,10,0,508
+30,New Zealand,England,Pool,Q3,9,5,0,12,3,15,5,452
+30,New Zealand,England,Pool,Q4,11,2,4,8,5,13,2,425
+30,England,New Zealand,Pool,Q1,15,5,3,11,1,12,2,517
+30,England,New Zealand,Pool,Q2,10,7,0,19,5,24,2,389
+30,England,New Zealand,Pool,Q3,14,2,1,13,2,15,2,446
+30,England,New Zealand,Pool,Q4,15,7,3,15,3,18,2,472
+31,Barbados,Trinidad and Tobago,Classification,Q1,5,10,3,14,4,18,6,376
+31,Barbados,Trinidad and Tobago,Classification,Q2,11,5,1,16,6,22,1,416
+31,Barbados,Trinidad and Tobago,Classification,Q3,7,8,6,8,4,12,4,410
+31,Barbados,Trinidad and Tobago,Classification,Q4,8,6,3,7,2,9,3,389
+31,Trinidad and Tobago,Barbados,Classification,Q1,17,11,9,8,5,13,4,520
+31,Trinidad and Tobago,Barbados,Classification,Q2,18,6,4,11,3,14,2,482
+31,Trinidad and Tobago,Barbados,Classification,Q3,14,12,5,12,2,14,4,487
+31,Trinidad and Tobago,Barbados,Classification,Q4,14,7,3,13,0,13,2,509
+32,Scotland,Northern Ireland,Classification,Q1,10,8,2,12,4,16,1,433
+32,Scotland,Northern Ireland,Classification,Q2,12,4,5,6,3,9,1,549
+32,Scotland,Northern Ireland,Classification,Q3,10,4,5,5,5,10,1,423
+32,Scotland,Northern Ireland,Classification,Q4,11,4,3,6,0,6,2,447
+32,Northern Ireland,Scotland,Classification,Q1,10,6,6,6,9,15,2,464
+32,Northern Ireland,Scotland,Classification,Q2,6,6,0,15,2,17,5,346
+32,Northern Ireland,Scotland,Classification,Q3,9,7,4,12,5,17,2,473
+32,Northern Ireland,Scotland,Classification,Q4,8,6,4,11,7,18,3,447
+33,Wales,Malawi,Classification,Q1,17,4,3,9,0,9,1,480
+33,Wales,Malawi,Classification,Q2,11,3,0,19,1,20,0,402
+33,Wales,Malawi,Classification,Q3,13,2,0,11,5,16,1,390
+33,Wales,Malawi,Classification,Q4,15,4,1,15,4,19,1,412
+33,Malawi,Wales,Classification,Q1,13,7,2,14,3,17,2,417
+33,Malawi,Wales,Classification,Q2,17,1,2,13,5,18,0,493
+33,Malawi,Wales,Classification,Q3,18,3,4,10,5,15,0,508
+33,Malawi,Wales,Classification,Q4,14,3,5,8,2,10,2,484
+34,South Africa,Uganda,Classification,Q1,13,3,4,14,4,18,0,360
+34,South Africa,Uganda,Classification,Q2,8,0,1,19,12,31,4,259
+34,South Africa,Uganda,Classification,Q3,16,4,1,22,3,25,0,392
+34,South Africa,Uganda,Classification,Q4,11,5,3,15,5,20,2,359
+34,Uganda,South Africa,Classification,Q1,15,6,3,10,1,11,3,538
+34,Uganda,South Africa,Classification,Q2,15,6,3,6,3,9,2,638
+34,Uganda,South Africa,Classification,Q3,11,4,3,13,3,16,1,506
+34,Uganda,South Africa,Classification,Q4,13,5,2,12,4,16,1,537
+35,Jamaica,New Zealand,Semi Final,Q1,18,5,3,5,1,6,1,536
+35,Jamaica,New Zealand,Semi Final,Q2,18,3,2,13,5,18,0,411
+35,Jamaica,New Zealand,Semi Final,Q3,16,8,2,6,0,6,4,473
+35,Jamaica,New Zealand,Semi Final,Q4,15,6,3,6,3,9,2,438
+35,New Zealand,Jamaica,Semi Final,Q1,9,3,1,9,2,11,3,361
+35,New Zealand,Jamaica,Semi Final,Q2,13,3,0,12,6,18,0,485
+35,New Zealand,Jamaica,Semi Final,Q3,13,2,4,5,7,12,2,424
+35,New Zealand,Jamaica,Semi Final,Q4,16,7,5,10,0,10,2,461
+36,England,Australia,Semi Final,Q1,12,3,4,10,7,17,1,455
+36,England,Australia,Semi Final,Q2,11,5,2,16,2,18,4,402
+36,England,Australia,Semi Final,Q3,13,2,2,17,5,22,2,405
+36,England,Australia,Semi Final,Q4,15,4,5,13,3,16,0,458
+36,Australia,England,Semi Final,Q1,15,5,3,15,4,19,4,442
+36,Australia,England,Semi Final,Q2,14,2,4,9,5,14,0,496
+36,Australia,England,Semi Final,Q3,16,5,2,15,5,20,2,492
+36,Australia,England,Semi Final,Q4,15,6,3,10,2,12,2,440
+37,New Zealand,England,Medal,Q1,14,5,1,10,4,14,0,397
+37,New Zealand,England,Medal,Q2,15,6,2,16,8,24,1,507
+37,New Zealand,England,Medal,Q3,12,4,1,12,7,19,2,435
+37,New Zealand,England,Medal,Q4,14,5,3,10,10,20,2,508
+37,England,New Zealand,Medal,Q1,13,2,3,8,4,12,2,499
+37,England,New Zealand,Medal,Q2,10,6,3,10,6,16,2,388
+37,England,New Zealand,Medal,Q3,12,5,1,13,0,13,1,459
+37,England,New Zealand,Medal,Q4,13,6,2,14,1,15,0,371
+38,Jamaica,Australia,Medal,Q1,12,3,8,8,2,10,3,366
+38,Jamaica,Australia,Medal,Q2,17,4,1,11,3,14,1,472
+38,Jamaica,Australia,Medal,Q3,10,6,4,8,3,11,4,415
+38,Jamaica,Australia,Medal,Q4,12,7,5,16,2,18,4,429
+38,Australia,Jamaica,Medal,Q1,14,7,3,14,5,19,1,531
+38,Australia,Jamaica,Medal,Q2,15,4,3,12,7,19,3,425
+38,Australia,Jamaica,Medal,Q3,16,5,6,23,7,30,2,484
+38,Australia,Jamaica,Medal,Q4,10,8,4,15,6,21,3,469
